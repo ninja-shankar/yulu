@@ -1,0 +1,3 @@
+About:
+
+Yulu, India's leading micro-mobility service provider, is experiencing a significant decline in revenues and the task is to understand the factors affecting the demand for shared electric cycles. By analyzing various factors such as location, user demographics, trip duration, pricing, and usage patterns using statistical methods and machine learning models, I identified key variables impacting demand and predicted trends. Understanding these factors will allow Yulu to optimize operations, improve customer satisfaction, and increase usage rates. Strategic placement of Yulu zones, pricing adjustments, and enhanced marketing efforts can boost demand and reverse the revenue decline, providing a more efficient and attractive service to users.
